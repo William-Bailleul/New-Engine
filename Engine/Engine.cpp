@@ -1,5 +1,4 @@
 #include "Engine.h"
-#include "InputController.h"
 #include <WindowsX.h>
 
 using Microsoft::WRL::ComPtr;
